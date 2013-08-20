@@ -1,36 +1,43 @@
-Python ❤ Ingeniería
-===================
 
-Un curso/taller de Python orientado a estudiantes y profesores de Ingenierías 
-(con conocimientos en algún lenguaje de programación de alto nivel). 
+Python para Ingeniería
+=======================
 
-En el primer encuentro se recorren los tipos y estructuras de datos incorporados
-(tipos numéricos, cadenas, listas, tuplas, conjuntos, diccionarios), 
-el manejo de archivos, las estructuras de control de flujo (if, for, while) 
-y de código (funciones, generadores, clases). 
+Un curso de Python orientado a estudiantes de ingenieria, ingenieros
+e investigadores.
 
-El segundo encuentro hace un repaso, brinda una somera introducción de numpy y matplotlib
-y se enfoca en distintos módulos útiles de la biblioteca estándar. 
 
-Cómo visualizar
+:disertante: Ing. Martín Gaitán
+:colaboradores: Ing. Jairo Trad, Julián Scortechini
+
+http://phasety.com/1/blog/article/curso-taller-python-para-ciencia-e-ingenieria
+
+Material
+--------
+
+Las clases se encuentran en formato `Ipython Notebook <http://ipython.org/notebook.html>`_
+y se usan como "soporte dinámico". Cada ejemplo de código se manipula.
+
+Desde estos links se pueden visualizar estáticamente:
+
+* `Clase Nº 1 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25201.ipynb>`_
+* *proximamente*
+
+
+Temas abordados
 ---------------
 
-- Con cualquier navegador web con soporte de estánderes. Por ejemplo::
-
-    firefox taller2.html
-
-
-Cómo generar las diapositivas desde la versión fuente
-------------------------------------------------------
-
-Las diapositivas están escritas en `restructuredText <http://docutils.sourceforge.net/rst.html>`_
-y convertidas mediante la herramienta incorporada en docutils  
-`rst2s5 <http://docutils.sourceforge.net/docs/user/tools.html#rst2s5-py>`_. Para convertir
-simplemente::
-
-    rst2s5 taller2.rst taller2.html
-
-
-
-
-
+- Instalación de entorno para python en windows/linux. Anaconda. Spyder y Ipython Notebook
+- Tipos: enteros, floats, complejos, strings.
+- Estructuras de datos: listas, tuplas, diccionarios, conjuntos. (packing/unpacking, indexado, slicing, etc.)
+- Conceptos de mutabilidad/inmutabilidad, secuencia, iterador,
+- control de flujo: if, for, while, manejo de excepciones
+- Funciones: definicion, argumentos posicionales y nominales. Valor vs referencia. sentencia yield
+- funciones built-in: zip, range, enumerate, etc.
+- estructura de proyectos: módulos, paquetes, importacion.
+- Manejo de I/O: lectura y escritura de archivos, CSV, json, pickle
+- Conceptos básicos de orientación a objetos. Clases
+- Matplotlib: introducción, generación de gráficos cartesianos continuos, puntos, histogramas
+- Numpy: introduccion a Arrays. slicing extendido, metodos y funciones builtin, loadtxt, algebra lineal, resolucion de sistemas de ecuaciones lineales.
+- Matplotlib avanzado: integración con numpy, plots 3d, otros tipos de gráficos, labels, formato, subplots.
+- Scipy: algoritmos listos para usar. Estadistica, interpolación. regresiones. Otros?
+- F2Py: Llamar subrutinas/funciones Fortran desde Python. Paso de argumentos escalares, arrays, output implicito, manipulación de signatura.
