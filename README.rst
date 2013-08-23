@@ -11,9 +11,11 @@ e investigadores.
 
 http://phasety.com/1/blog/article/curso-taller-python-para-ciencia-e-ingenieria
 
-.. raw:: html
 
-   <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/deed.es_AR"><img alt="Licencia Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/2.5/ar/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Python para Ingeniería</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="http://phasety.com" property="cc:attributionName" rel="cc:attributionURL">Martín Gaitán</a> se encuentra bajo una <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.5/ar/deed.es_AR">Licencia Creative Commons Atribución-CompartirIgual 2.5 Argentina</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/mgaitan/python-ingenieria" rel="dct:source">https://github.com/mgaitan/python-ingenieria</a>.
+
+.. figure:: http://i.creativecommons.org/l/by-sa/2.5/ar/88x31.png
+   :target: http://creativecommons.org/licenses/by-sa/2.5/ar/deed.es_AR
+
 
 
 Material
@@ -25,7 +27,9 @@ y se usan como "soporte dinámico". Cada ejemplo de código se manipula.
 Desde estos links se pueden visualizar estáticamente:
 
 * `Clase Nº 1 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25201.ipynb>`_
-* *proximamente*
+* `Clase Nº 2 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25202.ipynb>`_
+
+* .. proximamente nuevas
 
 
 Temas abordados
