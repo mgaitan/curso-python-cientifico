@@ -28,6 +28,8 @@ Desde estos links se pueden visualizar estáticamente:
 
 * `Clase Nº 1 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25201.ipynb>`_
 * `Clase Nº 2 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25202.ipynb>`_
+* `Clase Nº 3 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25203.ipynb>`_
+
 
 * .. proximamente nuevas
 
