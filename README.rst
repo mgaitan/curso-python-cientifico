@@ -39,7 +39,7 @@ Ejemplos
 A lo largo del curso deberías ser capaz de comprender y aplicar los temas vistos para
 resolver problemas como estos:
 
- - `Torre de separación <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/ejemplos/torre_de_separacion.ipynb>`_
+ - `Torre de separación <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/61074bea171f7fcc9f262c08947e285e2cf6439b/ejemplos/torre_de_separacion.ipynb>`_
 
  - `Casino (probabilidad binomial) <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/ejemplos/Casino.ipynb>`_
 
