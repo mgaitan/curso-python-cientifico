@@ -39,11 +39,11 @@ Ejemplos
 A lo largo del curso deberías ser capaz de comprender y aplicar los temas vistos para
 resolver problemas como estos:
 
- - `Torre de separación <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/ejemplos/torre_separacion.ipynb>`_
+ - `Torre de separación <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/ejemplos/torre_de_separacion.ipynb>`_
 
  - `Casino (probabilidad binomial) <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/ejemplos/Casino.ipynb>`_
 
- - Nuevos ejemplos pronto.
+ - Mandános tu ejemplo!
 
 
 Temas abordados
