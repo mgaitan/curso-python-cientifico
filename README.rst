@@ -13,10 +13,6 @@ http://phasety.com/1/blog/article/curso-taller-python-para-ciencia-e-ingenieria
 
 
 
-.. figure:: http://i.creativecommons.org/l/by-sa/2.5/ar/88x31.png
-   :target: http://creativecommons.org/licenses/by-sa/2.5/ar/deed.es_AR
-
-
 
 Material
 --------
@@ -29,6 +25,7 @@ Desde estos links se pueden visualizar estáticamente:
 * `Clase Nº 1 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25201.ipynb>`_
 * `Clase Nº 2 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25202.ipynb>`_
 * `Clase Nº 3 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25203.ipynb>`_
+* `Clase Nº 4 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25204.ipynb>`_
 
 
 * .. proximamente nuevas
@@ -44,6 +41,9 @@ resolver problemas como estos:
  - `Casino (probabilidad binomial) <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/ejemplos/Casino.ipynb>`_
 
  - Mandános tu ejemplo!
+
+
+
 
 
 Temas abordados
@@ -64,3 +64,30 @@ Temas abordados
 - Matplotlib avanzado: integración con numpy, plots 3d, otros tipos de gráficos, labels, formato, subplots.
 - Scipy: algoritmos listos para usar. Estadistica, interpolación. regresiones. Otros?
 - F2Py: Llamar subrutinas/funciones Fortran desde Python. Paso de argumentos escalares, arrays, output implicito, manipulación de signatura.
+
+
+Licencia
+--------
+
+.. figure:: http://i.creativecommons.org/l/by-sa/2.5/ar/88x31.png
+   :target: http://creativecommons.org/licenses/by-sa/2.5/ar/deed.es_AR
+
+
+    Licencia Creative Commons Atribución-CompartirIgual 2.5 Argentina (CC BY-SA 2.5 AR)
+
+
+
+Créditos
+--------
+
+Parte de este material ha sido inspirado y/o adaptado de múltiples fuentes
+
+
+* J.R. Johansson's `Scientific Python Lectures <https://github.com/jrjohansson/scientific-python-lectures>`_
+* `Sci-py Lectures <http://scipy-lectures.github.io/>`_
+* `El tutorial de Python <http://docs.python.org.ar/tutorial/2/contenido.html>`_
+  (traducción en castellano por la comunidad `Python Argentina <http://python.org.ar/>`_
+* Nicolas P. Rougier's `Matplotlib tutorial <http://webloria.loria.fr/~rougier/teaching/matplotlib/>`_
+
+
+
