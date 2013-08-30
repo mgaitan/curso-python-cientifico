@@ -83,11 +83,12 @@ Créditos
 Parte de este material ha sido inspirado y/o adaptado de múltiples fuentes
 
 
-* J.R. Johansson's `Scientific Python Lectures <https://github.com/jrjohansson/scientific-python-lectures>`_
+* `Scientific Python Lectures <https://github.com/jrjohansson/scientific-python-lectures>`_
+  de J.R. Johansson
 * `Sci-py Lectures <http://scipy-lectures.github.io/>`_
 * `El tutorial de Python <http://docs.python.org.ar/tutorial/2/contenido.html>`_
-  (traducción en castellano por la comunidad `Python Argentina <http://python.org.ar/>`_
-* Nicolas P. Rougier's `Matplotlib tutorial <http://webloria.loria.fr/~rougier/teaching/matplotlib/>`_
+  traducción al castellano por la comunidad `Python Argentina <http://python.org.ar/>`_
+* `Matplotlib tutorial <http://webloria.loria.fr/~rougier/teaching/matplotlib/>`_ por Nicolas P. Rougier
 
 
 
