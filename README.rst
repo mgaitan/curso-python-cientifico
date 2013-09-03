@@ -39,7 +39,7 @@ Desde estos links se pueden visualizar estáticamente:
 
   Más de numpy y matplotlib avanzado. Intro a Scipy.
 
-* `Clase Nº 5 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25204.ipynb>`_
+* `Clase Nº 5 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25205.ipynb>`_
 
   Intro a Sympy. Vectorización de funciones con Numpy.
 
