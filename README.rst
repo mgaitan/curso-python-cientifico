@@ -23,12 +23,28 @@ y se usan como "soporte dinámico". Cada ejemplo de código se manipula.
 Desde estos links se pueden visualizar estáticamente:
 
 * `Clase Nº 1 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25201.ipynb>`_
+
+  Instalación, modos de usar Python. Tipos básicos, estructuras de datos, sentencias de control de flujo, funciones incorporadas
+
 * `Clase Nº 2 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25202.ipynb>`_
+
+  Definición de funciones, excepciones, lectura de archivos, clases
+
 * `Clase Nº 3 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25203.ipynb>`_
+
+  Conceptos de módulos y paquetes, algunos módulos de de la biblioteca estándar,
+  intro a matplotlib y numpy
+
 * `Clase Nº 4 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25204.ipynb>`_
 
+  Más de numpy y matplotlib avanzado. Intro a Scipy.
 
-* .. proximamente nuevas
+* `Clase Nº 5 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25204.ipynb>`_
+
+  Intro a Sympy. Vectorización de funciones con Numpy.
+
+
+* .. El viernes la última clase
 
 Ejemplos
 --------
