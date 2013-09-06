@@ -48,8 +48,6 @@ Desde estos links se pueden visualizar estáticamente:
   F2py
 
 
-* .. El viernes la última clase
-
 Ejemplos
 --------
 
