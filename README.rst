@@ -43,6 +43,10 @@ Desde estos links se pueden visualizar estáticamente:
 
   Intro a Sympy. Vectorización de funciones con Numpy.
 
+* `Clase Nº 6 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25205.ipynb>`_
+
+  F2py: pegar fortran con Python.
+
 
 * .. El viernes la última clase
 
@@ -105,6 +109,8 @@ Parte de este material ha sido inspirado y/o adaptado de múltiples fuentes
 * `El tutorial de Python <http://docs.python.org.ar/tutorial/2/contenido.html>`_
   traducción al castellano por la comunidad `Python Argentina <http://python.org.ar/>`_
 * `Matplotlib tutorial <http://webloria.loria.fr/~rougier/teaching/matplotlib/>`_ por Nicolas P. Rougier
+* `Integrar Fortran con Python usando F2py <http://pybonacci.wordpress.com/2013/02/22/integrar-fortran-con-python-usando-f2py/>`_  por Pybonacci.
+* `Numba vs Python, take 2 <http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/NumbaCython.ipynb>`_ de Jake Vanderplas
 
 
 
