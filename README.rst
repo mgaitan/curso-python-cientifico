@@ -1,6 +1,5 @@
-
-Python para Ingeniería
-=======================
+Curso de Python para ciencias e ingeniería
+==========================================
 
 Un curso de Python orientado a estudiantes de ingenieria, ingenieros
 e investigadores.
