@@ -21,46 +21,31 @@ y se usan como "soporte dinámico". Cada ejemplo de código se manipula.
 
 Desde estos links se pueden visualizar estáticamente:
 
-* `Clase Nº 1 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25201.ipynb>`_
+
+* `Clase Nº 1 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25201.ipynb>`_
 
   Instalación, modos de usar Python. Tipos básicos, estructuras de datos, sentencias de control de flujo, funciones incorporadas
 
-* `Clase Nº 2 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25202.ipynb>`_
+* `Clase Nº 2 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25202.ipynb>`_
 
   Definición de funciones, excepciones, lectura de archivos, clases
 
-* `Clase Nº 3 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25203.ipynb>`_
+* `Clase Nº 3 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25203.ipynb>`_
 
   Conceptos de módulos y paquetes, algunos módulos de de la biblioteca estándar,
   intro a matplotlib y numpy
 
-* `Clase Nº 4 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25204.ipynb>`_
+* `Clase Nº 4 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25204.ipynb>`_
 
   Más de numpy y matplotlib avanzado. Intro a Scipy.
 
-* `Clase Nº 5 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25205.ipynb>`_
+* `Clase Nº 5 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25205.ipynb>`_
 
   Intro a Sympy. Vectorización de funciones con Numpy.
 
-* `Clase Nº 6 <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/Clase%25206.ipynb>`_
+* `Clase Nº 6 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25206.ipynb>`_
 
   F2py
-
-
-Ejemplos
---------
-
-A lo largo del curso deberías ser capaz de comprender y aplicar los temas vistos para
-resolver problemas como estos:
-
- - `Torre de separación <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/61074bea171f7fcc9f262c08947e285e2cf6439b/ejemplos/torre_de_separacion.ipynb>`_
-
- - `Casino (probabilidad binomial) <http://nbviewer.ipython.org/urls/raw.github.com/mgaitan/python-ingenieria/master/ejemplos/Casino.ipynb>`_
-
- - Mandános tu ejemplo!
-
-
-
 
 
 Temas abordados
@@ -108,6 +93,3 @@ Parte de este material ha sido inspirado y/o adaptado de múltiples fuentes
 * `Matplotlib tutorial <http://webloria.loria.fr/~rougier/teaching/matplotlib/>`_ por Nicolas P. Rougier
 * `Integrar Fortran con Python usando F2py <http://pybonacci.wordpress.com/2013/02/22/integrar-fortran-con-python-usando-f2py/>`_  por Pybonacci.
 * `Numba vs Python, take 2 <http://nbviewer.ipython.org/url/jakevdp.github.io/downloads/notebooks/NumbaCython.ipynb>`_ de Jake Vanderplasf
-
-
-
