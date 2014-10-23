@@ -1,15 +1,13 @@
-Curso de Python para ciencias e ingeniería
-==========================================
+Tutorial de Python para ciencias e ingenierías
+==============================================
 
 Un curso de Python orientado a estudiantes de ingenieria, ingenieros
 e investigadores.
 
 
 :disertante: Ing. Martín Gaitán
-:colaboradores: Ing. Jairo Trad, Julián Scortechini
-
-http://phasety.com/1/blog/article/curso-taller-python-para-ciencia-e-ingenieria
-
+:evento: II Conferencia Latinoamericana de Python en la Ciencia
+         ScipyconAr 2014
 
 
 
@@ -22,30 +20,26 @@ y se usan como "soporte dinámico". Cada ejemplo de código se manipula.
 Desde estos links se pueden visualizar estáticamente:
 
 
-* `Clase Nº 1 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25201.ipynb>`_
+* `Clase Nº 1 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25201.ipynb>`_
 
   Instalación, modos de usar Python. Tipos básicos, estructuras de datos, sentencias de control de flujo, funciones incorporadas
 
-* `Clase Nº 2 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25202.ipynb>`_
+* `Clase Nº 2 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25202.ipynb>`_
 
   Definición de funciones, excepciones, lectura de archivos, clases
 
-* `Clase Nº 3 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25203.ipynb>`_
+* `Clase Nº 3 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25203.ipynb>`_
 
   Conceptos de módulos y paquetes, algunos módulos de de la biblioteca estándar,
   intro a matplotlib y numpy
 
-* `Clase Nº 4 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25204.ipynb>`_
+* `Clase Nº 4 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25204.ipynb>`_
 
   Más de numpy y matplotlib avanzado. Intro a Scipy.
 
-* `Clase Nº 5 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25205.ipynb>`_
+* `Clase Nº 5 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25205.ipynb>`_
 
   Intro a Sympy. Vectorización de funciones con Numpy.
-
-* `Clase Nº 6 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/master/Clase%25206.ipynb>`_
-
-  F2py
 
 
 Temas abordados
@@ -65,8 +59,6 @@ Temas abordados
 - Numpy: introduccion a Arrays. slicing extendido, metodos y funciones builtin, loadtxt, algebra lineal, resolucion de sistemas de ecuaciones lineales.
 - Matplotlib avanzado: integración con numpy, plots 3d, otros tipos de gráficos, labels, formato, subplots.
 - Scipy: algoritmos listos para usar. Estadistica, interpolación. regresiones. Otros?
-- F2Py: Llamar subrutinas/funciones Fortran desde Python. Paso de argumentos escalares, arrays, output implicito, manipulación de signatura.
-
 
 Licencia
 --------
