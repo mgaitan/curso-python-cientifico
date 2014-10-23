@@ -20,24 +20,24 @@ y se usan como "soporte dinámico". Cada ejemplo de código se manipula.
 Desde estos links se pueden visualizar estáticamente:
 
 
-* `Clase Nº 1 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25201.ipynb>`_
+* `Clase Nº 1 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%201.ipynb>`_
 
   Instalación, modos de usar Python. Tipos básicos, estructuras de datos, sentencias de control de flujo, funciones incorporadas
 
-* `Clase Nº 2 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25202.ipynb>`_
+* `Clase Nº 2 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%202.ipynb>`_
 
   Definición de funciones, excepciones, lectura de archivos, clases
 
-* `Clase Nº 3 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25203.ipynb>`_
+* `Clase Nº 3 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%203.ipynb>`_
 
   Conceptos de módulos y paquetes, algunos módulos de de la biblioteca estándar,
   intro a matplotlib y numpy
 
-* `Clase Nº 4 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25204.ipynb>`_
+* `Clase Nº 4 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%204.ipynb>`_
 
   Más de numpy y matplotlib avanzado. Intro a Scipy.
 
-* `Clase Nº 5 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%25205.ipynb>`_
+* `Clase Nº 5 <http://nbviewer.ipython.org/github/mgaitan/curso-python-cientifico/blob/scipycon/Clase%205.ipynb>`_
 
   Intro a Sympy. Vectorización de funciones con Numpy.
 
