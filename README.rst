@@ -6,16 +6,18 @@ e investigadores.
 
 
 :disertante: Ing. Martín Gaitán
-:evento: II Conferencia Latinoamericana de Python en la Ciencia
-         ScipyconAr 2014
-
+:evento: II Conferencia Latinoamericana de Python en la Ciencia - ScipyConAr 2014
+:fecha: 23 y 24 de octubre de 2014
 
 
 Material
 --------
 
-Las clases se encuentran en formato `Ipython Notebook <http://ipython.org/notebook.html>`_
-y se usan como "soporte dinámico". Cada ejemplo de código se manipula.
+Las clases se encuentran en formato `IPython Notebook <http://ipython.org/notebook.html>`_
+y se usan como soporte dinámico. Cada ejemplo de código se manipula en vivo.
+
+.. attention:: se utiliza **Python 3.3** o superior.
+
 
 Desde estos links se pueden visualizar estáticamente:
 
