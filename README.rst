@@ -1,8 +1,7 @@
 Curso de Python para ciencias e ingenierías
 ==============================================
 
-Un curso de Python orientado a estudiantes de ingenieria, ingenieros
-e investigadores.
+Un curso de Python orientado a estudiantes de ciencias e ingenieria, profesores, ingenieros e investigadores.
 
 :docente: Ing. Martín Gaitán
 
