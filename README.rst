@@ -24,28 +24,28 @@ Más información en su `blog <http://mgaitan.github.io/>`_
 Programa
 ---------
 
-`Clase 1 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%201.ipynb>`:
+`Clase 1 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%201.ipynb>`_:
     Características de Python. Instalación de entorno en Windows/Linux. Modos de usar Python. Anaconda. Introducción a Ipython Notebook. Tipos de datos: enteros, floats, complejos, strings. Estructuras de datos incorporadas: listas, tuplas, diccionarios, conjuntos. Packing, indexing, slicing. Conceptos de mutabilidad, inmutabilidad, secuencia, iterador. Control de flujo: if, for, while. Estructuras por comprensión.
 
-`Clase 2 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%202.ipynb>`:
+`Clase 2 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%202.ipynb>`_:
     Funciones: definición, argumentos posicionales y nominales. Generadores.
     Funciones incorporadas: zip, range, enumerate, etc.
     Manejo de I/O: lectura y escritura de archivos. Manejo de excepciones. Manejadores de contexto.
 
-`Clase 3 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%203.ipynb>`:
+`Clase 3 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%203.ipynb>`_:
     Estructura de proyectos: módulos, paquetes, importación.
     Paseo por la biblioteca estandar: math, CSV, json, pickle
     Conceptos básicos de programacion orientada a objetos.
     Introduccion a Matplotlib y Numpy.
 
-`Clase 4 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%204.ipynb>`:
+`Clase 4 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%204.ipynb>`_:
     Numpy: introducción al objeto Array. Slicing extendido, métodos y funciones importantes, importación de datos.
     Concepto de vista. Máscaras y fancy indexing. Aplicación de Numpy en álgebra lineal. Resolución de sistemas de ecuaciones lineales.
     Matplotlib: generación de gráficos cartesianos continuos, puntos, histogramas.
     Matplotlib avanzado: API orientada a objetos. Manipulación del formato y apariencia.
     Gráficos 3D, otros tipos de gráficos 2D. Exportación con calidad de publicación.
 
-`Clase 5 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%205.ipynb>`:
+`Clase 5 <https://nbviewer.jupyter.org/github/mgaitan/curso-python-cientifico/blob/fcefyn/Clase%205.ipynb>`_:
     Vectorización de funciones. Scipy: algoritmos optimización, integración, procesamiento de imágenes, ajuste de curvas etc.
     Sympy, cálculo simbólico de precisión arbitraria con Python. Evaluación numérica de expresiones Sympy con Numpy y otras herramientas de alta performance
 
